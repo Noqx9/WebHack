@@ -11,7 +11,7 @@ banner = """
 \033[31m
 ██╗    ██╗██╗  ██╗   Author    : LavSarkari
 ██║    ██║██║  ██║   Github    : https://github.com/LavSarkari
-██║ █╗ ██║███████║   Instagram : https://instagram.com/_infosec_.lav
+██║ █╗ ██║███████║   Instagram : https://instagram.com/genius__.tech
 ██║███╗██║██╔══██║
 ╚███╔███╔╝██║  ██║
  ╚══╝╚══╝ ╚═╝  ╚═╝
