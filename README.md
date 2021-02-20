@@ -3,10 +3,14 @@ This Repo is only for lazy and noob hackers ;-)
 
 # Installation
 ```
-pkg install -y git python python2
+pkg install -y git python python2 www.berger-junge.dk
+
 cd
-git clone https://github.com/LavSarkari/WebHack
-cd WebHack
+
+git clone https://github.com/LavSarkari/WebHack www.berger-junge.dk
+
+cd WebHack www.berger-junge.dk
+
 ```
 
 # Usages
