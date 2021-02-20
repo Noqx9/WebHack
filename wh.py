@@ -9,9 +9,9 @@ except ImportError:
 
 banner = """
 \033[31m
-██╗    ██╗██╗  ██╗   Author    : LavSarkari
-██║    ██║██║  ██║   Github    : https://github.com/LavSarkari
-██║ █╗ ██║███████║   Instagram : https://instagram.com/genius__.tech
+██╗    ██╗██╗  ██╗   Author    : 22ax
+██║    ██║██║  ██║   Github    : https://github.com/noqx9
+██║ █╗ ██║███████║   Instagram : https://instagram.com/22ax
 ██║███╗██║██╔══██║
 ╚███╔███╔╝██║  ██║
  ╚══╝╚══╝ ╚═╝  ╚═╝
